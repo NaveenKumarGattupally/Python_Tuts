@@ -1,1 +1,0 @@
-Print("It the sample python file")
